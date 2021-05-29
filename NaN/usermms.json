@@ -1,0 +1,18 @@
+[{
+    "id": 1,
+    "name": "Rushil",
+    "surname": "Gupta",
+    "coding_lang_number": 4,
+    "codeing_lang": {
+        "1": "xml",
+        "2": "html",
+        "3": "css",
+        "4": "kotlin"
+    },
+    "friends_num": "0",
+    "friends_name": {
+        "0": null
+    }
+
+
+}]
